@@ -10,6 +10,7 @@ namespace SEM_1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Mi primera subida a githud");
         }
     }
 }
